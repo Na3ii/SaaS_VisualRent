@@ -1,0 +1,9 @@
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+/Docs_Previos/
+.env
+.env.backup
+.env.production
+*.log
